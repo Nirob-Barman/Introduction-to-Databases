@@ -1,0 +1,6 @@
+- virtualenv venv
+- pip list
+- venv\Scripts\activate
+- pip list
+- pip install mysql-connector-python
+- pip freeze > requirements.txt
